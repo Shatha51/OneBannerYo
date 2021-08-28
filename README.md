@@ -7,3 +7,7 @@
 
 ## Install 
 `git clone https://github.com/dura51/OneBannerYo.git`
+## Usage 
+`cd OneBannerYo`
+`chmod +x banner.sh`
+`./banner.sh`
