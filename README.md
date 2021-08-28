@@ -17,4 +17,4 @@
 `./banner.sh`
 
 ## Follow me
-`https://www.youtube.com/channel/UCy1VY5S4o7wqp4A2KmXF6Yw`
+YouTube : https://www.youtube.com/channel/UCy1VY5S4o7wqp4A2KmXF6Yw
